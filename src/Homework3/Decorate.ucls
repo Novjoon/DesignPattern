@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Homework3.DisplayDecorator" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/DisplayDecorator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="87" width="211" x="1062" y="529"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Homework3.FrameWindow" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/FrameWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="105" width="179" x="405" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="Homework3.LoadDisplayInterface" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/LoadDisplayInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="198" x="1313" y="529"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="Homework3.Display" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/Display.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="195" width="114" x="1009" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Homework3.HudDisplay" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/HudDisplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="132" x="890" y="529"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Homework3.MainWindow" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/MainWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="394" width="312" x="405" y="529"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Homework3.WeatherDisplay" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/WeatherDisplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="134" x="624" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Homework3.LoadHudDisplays" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/LoadHudDisplays.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="198" x="1313" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Homework3.LabelPanel" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/LabelPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="178" x="890" y="963"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Homework3.SpeedometerDisplay" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/SpeedometerDisplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="171" x="798" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Homework3.TimeDisplay" project="AdvancedOOP" 
+    file="/AdvancedOOP/src/Homework3/TimeDisplay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="110" x="1163" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="14">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="16">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="17" name="labelPanel"/>      
+      <multiplicity id="18" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
